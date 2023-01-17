@@ -1,0 +1,80 @@
+@media (min-width: 320px) and (max-width: 480px){
+
+    .logo {
+        width: 40%;
+    }
+    .carousel-inner {
+        width: 80%;
+        margin: auto;
+    }
+    .carousel-inner {
+        width: 80%;
+        margin: auto;
+    }
+    .title {
+        text-align: center;
+        color: blue;
+        font-size: 13px;
+    }
+    .dis {
+        padding: 0 20px;
+        font-size: 13px;
+    }
+    .title1 {
+        padding: 0 20px;
+        font-size: 13px;
+    }
+    .poin {
+        padding: 0 30px;
+        font-size: 13px;
+    }
+    .box {
+        width: 100%;
+        display: flex;
+        margin: auto;
+    }
+    .box {
+        display: flex;
+        margin: auto;
+        flex-direction: column;
+    }
+    .box1 {
+        width: 100%;
+        padding:5px 50px;
+    }
+    *, ::after, ::before {
+        box-sizing: border-box;
+        font-size: 13px;
+    }
+    video {
+        margin-left: 0;
+        width: 100%;
+        padding: 0 40px;
+    }
+    .foot_A img {
+        width: 40%;
+    }
+
+    .footer-link {
+        width: 100%;
+        padding: 0 50px;
+        display: flex;
+        margin: auto;
+        flex-direction: column;
+    }
+    .foot_A {
+        width: 100%;
+    }
+    dl, ol, ul {
+        margin-top: 0;
+        margin-bottom: rem;
+        padding: 0 10%;
+    }
+    .foot_B {
+        width: 50%;
+        padding: 10px 0;
+    }
+    .foot_C {
+        width: 100%;
+    }
+}   

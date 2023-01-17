@@ -1,0 +1,89 @@
+.navbar{
+    width: 100%;
+background-color: rgb(8, 19, 19);
+}
+.nav-link a{
+    color: white;
+}
+.logo{
+    width: 20%;
+}
+.logo img{
+    width: 30%;
+    margin-left: 10%;
+}
+li :hover{
+    text-decoration: none;
+    width: 100%;
+    color: brown;
+}
+/* slide */
+.carousel-inner{
+    width: 90%;
+    margin: auto;
+}
+/* container */
+.main{
+    width: 90%;
+    /* background-color: aqua; */
+    margin: auto;
+}
+.title{
+    text-align: center;
+    color: blue;
+    font-size: 20px;
+}
+.dis{
+    padding: 0 10px;
+}
+.title1{
+    padding: 0 10px;
+}
+.poin{
+    padding:0 30px;
+}
+.slide1{
+    width: 90%;
+}
+.slide1 img{
+    width: 90%;
+    margin-left: 10%;
+}
+.box{
+    width: 70%;
+    display: flex;
+    margin: auto;
+}
+.box1{
+    width: 20%;
+    padding: 10px;
+}
+video{
+    margin-left: 35%;
+}
+footer{
+    width: 100%;
+    background-color: aqua;
+}
+.footer-link{
+    width: 80%;
+    padding: 20px;
+    display: flex;
+    margin: auto;
+}
+.foot_A{
+    width: 40%;
+}
+.foot_A img{
+    width: 20%;
+}
+.foot_B{
+    width: 30%;
+    padding: 10px 0;
+}
+.foot_C{
+    width: 30%;
+}
+.foot_C img{
+    width: 5%;
+}
